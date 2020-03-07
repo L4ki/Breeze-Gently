@@ -1518,7 +1518,7 @@ entry {
   entry:disabled {
     color: rgba(216, 218, 221, 0.35);
     border-color: rgba(30, 38, 44, 0.35);
-    background-color: #202325; }
+    background-color: #06131d; }
   spinbutton:backdrop:not(.vertical),
   entry:backdrop {
     color: #eff0f1;
@@ -1528,7 +1528,7 @@ entry {
   entry:backdrop:disabled {
     color: rgba(216, 218, 221, 0.35);
     border-color: rgba(30, 38, 44, 0.35);
-    background-color: #202325; }
+    background-color: #06131d; }
   spinbutton.error:not(.vertical),
   entry.error {
     color: #da4453;
@@ -3560,11 +3560,11 @@ spinbutton.vertical entry {
   border-radius: 0; }
   spinbutton.vertical entry:disabled {
     color: rgba(216, 218, 221, 0.35);
-    background-color: #202325;
+    background-color: #06131d;
     border-color: rgba(30, 38, 44, 0.35); }
   spinbutton.vertical entry:backdrop:disabled {
     color: rgba(216, 218, 221, 0.35);
-    background-color: #202325;
+    background-color: #06131d;
     border-color: rgba(30, 38, 44, 0.35); }
 
 spinbutton.vertical button {
@@ -3582,11 +3582,11 @@ spinbutton.vertical button {
     color: #19426a; }
   spinbutton.vertical button:disabled {
     color: rgba(216, 218, 221, 0.35);
-    background-color: #202325;
+    background-color: #06131d;
     border-color: rgba(30, 38, 44, 0.35); }
   spinbutton.vertical button:backdrop:disabled {
     color: rgba(216, 218, 221, 0.35);
-    background-color: #202325;
+    background-color: #06131d;
     border-color: rgba(30, 38, 44, 0.35); }
 
 spinbutton.vertical button.up {
