@@ -10,3 +10,8 @@ Changelog: 01.09.2020.
 ----------------------
 
 Gtkrc file correction
+
+Changelog: 24.10.2020.
+---------------------
+
+Gtkrc file correction
