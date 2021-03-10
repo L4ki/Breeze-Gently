@@ -20,3 +20,8 @@ Changelog: 09.01.2021.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 10.03.2021.
+----------------------
+
+Redesigned Theme
