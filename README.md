@@ -25,3 +25,8 @@ Changelog: 10.03.2021.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 26.03.2021.
+---------------------
+
+Correction file: gtk.css (gtk-3.0)
