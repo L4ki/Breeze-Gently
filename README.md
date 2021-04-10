@@ -30,3 +30,8 @@ Changelog: 26.03.2021.
 ---------------------
 
 Correction file: gtk.css (gtk-3.0)
+
+Changelog: 10.04.2021.
+----------------------
+
+Fixed icons: button.rng, button-active.png
