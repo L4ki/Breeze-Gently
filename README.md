@@ -35,3 +35,8 @@ Changelog: 10.04.2021.
 ----------------------
 
 Fixed icons: button.png, button-active.png
+
+Changelog: 22.04.2021.
+-----------------------
+
+Fixed icon: border.png
