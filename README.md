@@ -40,3 +40,8 @@ Changelog: 22.04.2021.
 -----------------------
 
 Fixed icon: border.png
+
+Changelog: 06.05.2021.
+----------------------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
