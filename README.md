@@ -45,3 +45,8 @@ Changelog: 06.05.2021.
 ----------------------
 
 Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Changelog: 22.05.2021.
+----------------------
+
+Correction icons: line.png, menu-border.png
