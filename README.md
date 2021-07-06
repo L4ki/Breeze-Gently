@@ -50,3 +50,8 @@ Changelog: 22.05.2021.
 ----------------------
 
 Correction icons: line.png, menu-border.png
+
+Changelog: 06.07.2021.
+----------------------
+
+Fixed icon: menubar-item-active
