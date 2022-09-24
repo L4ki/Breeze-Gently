@@ -55,3 +55,8 @@ Changelog: 06.07.2021.
 ----------------------
 
 Fixed icon: menubar-item-active
+
+Changelog: 25.09.2022.
+----------------------
+
+Update: assets, gtk.css
