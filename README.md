@@ -60,3 +60,8 @@ Changelog: 25.09.2022.
 ----------------------
 
 Update: assets, gtk.css
+
+Changelog: 02.05.2023.
+----------------------
+
+Added: gtk-4.0
