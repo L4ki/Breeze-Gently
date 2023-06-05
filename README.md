@@ -81,3 +81,8 @@ Changelog: 29.05.2023.
 ----------------------
 
 Update: line.png, gtkrc
+
+Changelog: 05.06.2023.
+----------------------
+
+Update: tab-up-active.png
