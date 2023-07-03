@@ -101,4 +101,10 @@ Update: tab-right-active.png, tab-left-active.png
 Changelog: 26.06.2023.
 ----------------------
 
-Update: menubar-item-active.png
+Update: tab-right-active.png, tab-left-active.png
+
+Changelog: 03.07.2023.
+----------------------
+
+Update: gtk-3.0
+
