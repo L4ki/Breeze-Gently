@@ -108,3 +108,8 @@ Changelog: 03.07.2023.
 
 Update: gtk-3.0
 
+Changelog: 10.07.2023.
+----------------------
+
+Update: checkbox-checked-hover.png
+
