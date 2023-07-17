@@ -113,3 +113,9 @@ Changelog: 10.07.2023.
 
 Update: checkbox-checked-hover.png
 
+
+Changelog: 17.07.2023.
+----------------------
+
+Update: checkmark-symbolic.svg
+
