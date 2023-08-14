@@ -31,7 +31,7 @@ gtk-color-scheme = "window_color:#081723"
 gtk-color-scheme = "tooltip_fg_color:#dfe4eb\ntooltip_bg_color:#0f2c42"
 
 # Set GTK settings
-gtk-auto-mnemonics              = 1
+gtk-auto-mnemonics = 1
 gtk-primary-button-warps-slider = 1
 
 # And hand over the control to the theme files
