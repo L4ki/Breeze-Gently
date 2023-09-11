@@ -154,3 +154,8 @@ Changelog: 04.09.2023.
 ----------------------
 
 Update: border.png
+
+Changelog: 04.09.2023.
+----------------------
+
+Update: tab-down-active.png
