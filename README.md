@@ -159,3 +159,8 @@ Changelog: 11.09.2023.
 ----------------------
 
 Update: tab-down-active.png
+
+Changelog: 18.09.2023.
+----------------------
+
+Update: frame-notebook.png
