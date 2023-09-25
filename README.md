@@ -165,7 +165,7 @@ Changelog: 18.09.2023.
 
 Update: frame-notebook.png
 
-Changelog: 18.09.2023.
+Changelog: 25.09.2023.
 ----------------------
 
 Update: frame.png
