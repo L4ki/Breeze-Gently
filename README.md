@@ -175,7 +175,7 @@ Changelog: 02.10.2023.
 
 Update: frame-inline.png
 
-Changelog: 02.10.2023.
+Changelog: 09.10.2023.
 ----------------------
 
 Update: menu-border.png
