@@ -179,3 +179,8 @@ Changelog: 09.10.2023.
 ----------------------
 
 Update: menu-border.png
+
+Changelog: 16.10.2023.
+----------------------
+
+Update: focus.png
