@@ -189,3 +189,10 @@ Changelog: 23.10.2023.
 ----------------------
 
 Update: handle.png
+
+
+Changelog: 30.10.2023.
+----------------------
+
+Update: treeview-separator-ltr.png
+
