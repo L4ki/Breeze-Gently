@@ -215,3 +215,8 @@ Changelog: 27.11.2023.
 ----------------------
 
 Update: gtkrc
+
+Changelog: 04.12.2023.
+----------------------
+
+Update: styles
