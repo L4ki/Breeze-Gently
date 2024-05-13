@@ -1,7 +1,7 @@
 # Breeze-Gently
 GTK-3 Theme For Plasma Theme
 
-Changelog: 29.04.2024.
+Changelog: 13.05.2024.
 ----------------------
 
-Update: hacks.rc
+Update: apps.rc
