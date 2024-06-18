@@ -1,7 +1,7 @@
 # Breeze-Gently
 GTK-4 Theme For Plasma Theme
 
-Changelog: 11.06.2024.
+Changelog: 18.06.2024.
 ----------------------
 
-Update: main.rc
+Update: apps.rc
