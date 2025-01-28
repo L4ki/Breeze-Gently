@@ -4,7 +4,7 @@ GTK-4 Theme For Plasma Theme
 Breeze-Gently
 -------------
 
-Download: https://www.pling.com/p/1919156/
+Download: https://www.pling.com/p/1343249/
 ------------------------------------------
 
 <html>
