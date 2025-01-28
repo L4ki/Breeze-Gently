@@ -29,7 +29,7 @@ Screenshots:
 
 ![screenshot-20230529-164130](https://github.com/user-attachments/assets/2d0065b2-3fc9-4142-b5c3-c77f8d6b6ab6)
 
-![screenshot-20230529-164130](https://github.com/user-attachments/assets/5160d18d-be8c-472a-9533-babee196d036)
+![screenshot-20230529-163723](https://github.com/user-attachments/assets/9d98f80d-8d8e-44b4-9cc9-0aed731398a4)
 
 
 Changelog: 28.01.2025.
