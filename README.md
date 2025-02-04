@@ -35,4 +35,4 @@ Screenshots:
 Changelog: 04.02.2025.
 ----------------------
 
-Update:hacks.rc
+Update: hacks.rc
