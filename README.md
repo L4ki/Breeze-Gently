@@ -32,7 +32,7 @@ Screenshots:
 ![screenshot-20230529-163723](https://github.com/user-attachments/assets/9d98f80d-8d8e-44b4-9cc9-0aed731398a4)
 
 
-Changelog: 25.03.2025.
+Changelog: 01.04.2025.
 ----------------------
 
-Update: apps.rc
+Update: hacks.rc
