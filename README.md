@@ -32,7 +32,7 @@ Screenshots:
 ![screenshot-20230529-163723](https://github.com/user-attachments/assets/9d98f80d-8d8e-44b4-9cc9-0aed731398a4)
 
 
-Changelog: 24.06.2025.
+Changelog: 01.07.2025.
 ----------------------
 
-Update: hacks-dark.rc
+Update: main.rc
